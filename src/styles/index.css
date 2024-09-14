@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply pt-24 bg-background;
+    }
+
+    h2 {
+        @apply uppercase text-center font-bold text-3xl;
+    }
+}
