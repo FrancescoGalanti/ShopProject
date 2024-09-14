@@ -3,3 +3,6 @@
 -contextapi,
 -useReduce,
 -customhook,
+-zustand,
+-useEffect,
+-localStorage
